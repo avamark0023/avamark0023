@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avamark0023
-- 👀 I’m interested in linear algebra, knitting, pilates!
+- 👀 I’m interested in linear algebra, knitting, and pilates!
 - 🌱 I’m currently learning more about coding in python.
 - 😄 Pronouns: sher/her
 - ⚡ Fun fact: I can crochet, knit, embroider, cross stitch, and sew! Learning how to spin yarn now...
